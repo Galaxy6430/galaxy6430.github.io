@@ -1,2 +1,2 @@
-# bug6430.github.io
-Yes, Bug6430 website files.
+# galaxy6430.github.io
+a web site
